@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 7b9527df2d849ae4daba54bb656cb454
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gameManager: {instanceID: 0}
+  - scoreText: {instanceID: 0}
+  - jumpsound: {fileID: 8300000, guid: 0f7d0b7c3397f4dac91f20e8a77d2d57, type: 3}
+  - crashsound: {fileID: 8300000, guid: 4bcde6de2166e41e284ec46d8a01fb90, type: 3}
+  - dirtParticle: {instanceID: 0}
+  - explosionParticle: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
